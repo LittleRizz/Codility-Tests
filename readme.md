@@ -1,0 +1,1 @@
+I'll put all my codility coding here in this folder and repo.
